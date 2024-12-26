@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22000
-Fork on GitHub
-7021
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mahmoud Bahzad</h1>
 <h3 align="center">.Net Programmer / SQL DBA</h3>
 
